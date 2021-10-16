@@ -1,2 +1,5 @@
+file của week1
+abc
+xzc
 file của main
 abc
